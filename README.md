@@ -1,6 +1,6 @@
 # Babak’s dotfiles
 
-![Screenshot of my shell prompt](https://imgur.com/LW96J5l)
+![Screenshot of my shell prompt](https://i.imgur.com/LW96J5l.png)
 
 ## Installation
 
