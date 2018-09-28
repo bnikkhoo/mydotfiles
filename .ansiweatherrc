@@ -1,0 +1,6 @@
+location:Honolulu,US
+fetch_cmd:curl -s
+units:imperial
+show_daylight:true
+symbols:true
+
