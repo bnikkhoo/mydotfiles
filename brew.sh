@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # Install command-line tools using Homebrew.
+xcode-select --install
 
 # Make sure we’re using the latest Homebrew.
 brew update
@@ -92,6 +93,24 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install zopfli
+
+# My list of binaries
+brew install ansiweather
+brew install speedtest-cli
+brew install calc
+brew install macchanger
+brew install pianobar
+brew install cocoapods
+brew install proxychains-ng
+brew install the_silver_searcher
+brew install youtube-dl
+brew install thefuck
+brew install curl
+brew install tor
+brew install rtv
+brew install tree
+brew install unrar
+brew install screenfetch
 
 # Remove outdated versions from the cellar.
 brew cleanup
